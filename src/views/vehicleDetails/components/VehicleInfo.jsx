@@ -83,7 +83,7 @@ const VehicleInfo = ({
             <Avatar src={''} alt="" fallback="A" />
           </div>
           <div>
-            <h6 className="font-semibold">Indentificador:</h6>
+            <h6 className="font-semibold">Identificador:</h6>
             <h6>{identificador}</h6>
           </div>
         </div>

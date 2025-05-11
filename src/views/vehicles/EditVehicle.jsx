@@ -58,7 +58,7 @@ const EditVehicle = () => {
             <div>
               <Input
                 id={'identifier'}
-                label="Indentificador*"
+                label="Identificador*"
                 placeholder="PW-800"
                 name="identifier"
                 value={formik.values.identifier}
